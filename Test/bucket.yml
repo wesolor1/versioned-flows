@@ -1,0 +1,6 @@
+flows:
+  63cec2e1-8bfd-4103-ad14-102f7745634f: {ver: 8, file: TestDeploymentFLow.snapshot,
+    comments: test with git, author: anonymous, created: 1725266802239, flowName: TestDeploymentFLow,
+    flowDesc: Test}
+layoutVer: 1
+bucketId: 764e2d68-ce64-486d-b4ca-8d90db327ce3
