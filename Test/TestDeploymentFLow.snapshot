@@ -466,8 +466,8 @@
           "name" : "ConvertRecord",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -208.0,
-            "y" : 408.0
+            "x" : -152.0,
+            "y" : 424.0
           },
           "properties" : {
             "Include Zero Record FlowFiles" : "true",
