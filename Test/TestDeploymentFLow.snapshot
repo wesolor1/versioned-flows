@@ -526,8 +526,8 @@
           "name" : "UpdateAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -648.0,
-            "y" : 80.0
+            "x" : -176.0,
+            "y" : 72.0
           },
           "properties" : {
             "Store State" : "Do not store state",
