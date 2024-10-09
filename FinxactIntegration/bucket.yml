@@ -1,0 +1,6 @@
+flows:
+  4886b53f-c1a1-45dc-8093-bdb0ed135ee5: {ver: 1, file: FinxactIntegration.snapshot,
+    comments: InitialCommit, author: anonymous, created: 1728480974133, flowName: FinxactIntegration,
+    flowDesc: FinxactIntegration TPB}
+layoutVer: 1
+bucketId: a1123942-0ab7-40fa-89f3-94593864ce57
